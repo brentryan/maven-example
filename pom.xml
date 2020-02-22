@@ -5,13 +5,13 @@
     <artifactId>mono-java</artifactId>
     <packaging>pom</packaging>
     <name>mono-java</name>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/brentryan/maven-example</connection>
         <developerConnection>scm:git:git@github.com:brentryan/maven-example.git</developerConnection>
         <url>https://github.com/brentryan/maven-example</url>
-        <tag>mono-java-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <modules>
