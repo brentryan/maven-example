@@ -1,0 +1,17 @@
+*.iml
+.DS_Store
+target/
+.clover/
+.idea/*
+!.idea/runConfigurations
+.vagrant
+
+.classpath
+.project
+.factorypath
+.vscode
+.settings/
+*.*.orig
+*.log
+
+*.versionsBackup
