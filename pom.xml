@@ -8,7 +8,7 @@
     <version>1.0.0</version>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@github.com:brentryan/maven-example.git</developerConnection>
+        <developerConnection>scm:git@github.com:brentryan/maven-example.git</developerConnection>
         <tag>mono-java-1.0.0</tag>
     </scm>
 
