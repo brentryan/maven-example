@@ -5,11 +5,11 @@
     <artifactId>mono-java</artifactId>
     <packaging>pom</packaging>
     <name>mono-java</name>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 
     <scm>
-        <developerConnection>scm:git@github.com:brentryan/maven-example.git</developerConnection>
-        <tag>mono-java-1.0.0</tag>
+        <developerConnection>scm:git:ssh://git@github.com:brentryan/maven-example.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 
     <modules>
